@@ -1,0 +1,26 @@
+C:\Devops\dotnet webapp\bin\Debug\net6.0\appsettings.Development.json
+C:\Devops\dotnet webapp\bin\Debug\net6.0\appsettings.json
+C:\Devops\dotnet webapp\bin\Debug\net6.0\dotnet webapp.staticwebassets.runtime.json
+C:\Devops\dotnet webapp\bin\Debug\net6.0\dotnet webapp.exe
+C:\Devops\dotnet webapp\bin\Debug\net6.0\dotnet webapp.deps.json
+C:\Devops\dotnet webapp\bin\Debug\net6.0\dotnet webapp.runtimeconfig.json
+C:\Devops\dotnet webapp\bin\Debug\net6.0\dotnet webapp.dll
+C:\Devops\dotnet webapp\bin\Debug\net6.0\dotnet webapp.pdb
+C:\Devops\dotnet webapp\obj\Debug\net6.0\dotnet webapp.csproj.AssemblyReference.cache
+C:\Devops\dotnet webapp\obj\Debug\net6.0\dotnet webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devops\dotnet webapp\obj\Debug\net6.0\dotnet webapp.AssemblyInfoInputs.cache
+C:\Devops\dotnet webapp\obj\Debug\net6.0\dotnet webapp.AssemblyInfo.cs
+C:\Devops\dotnet webapp\obj\Debug\net6.0\dotnet webapp.csproj.CoreCompileInputs.cache
+C:\Devops\dotnet webapp\obj\Debug\net6.0\dotnet webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Devops\dotnet webapp\obj\Debug\net6.0\dotnet webapp.RazorAssemblyInfo.cache
+C:\Devops\dotnet webapp\obj\Debug\net6.0\dotnet webapp.RazorAssemblyInfo.cs
+C:\Devops\dotnet webapp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Devops\dotnet webapp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Devops\dotnet webapp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Devops\dotnet webapp\obj\Debug\net6.0\scopedcss\bundle\dotnet webapp.styles.css
+C:\Devops\dotnet webapp\obj\Debug\net6.0\scopedcss\projectbundle\dotnet webapp.bundle.scp.css
+C:\Devops\dotnet webapp\obj\Debug\net6.0\dotnet webapp.dll
+C:\Devops\dotnet webapp\obj\Debug\net6.0\refint\dotnet webapp.dll
+C:\Devops\dotnet webapp\obj\Debug\net6.0\dotnet webapp.pdb
+C:\Devops\dotnet webapp\obj\Debug\net6.0\dotnet webapp.genruntimeconfig.cache
+C:\Devops\dotnet webapp\obj\Debug\net6.0\ref\dotnet webapp.dll
